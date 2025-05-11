@@ -12,7 +12,7 @@
         <li>Removed drop down menu</li>
         <li>Auto focuses on password field at start</li>
     </ul>
-    <p>You may need to turn on the option to remember your last used account and it has all the same images and will work will all themes that are compitable with the original.</p>
+    <p>You may need to turn off the option to remember your last used account (if you want all user's to be hidden) and it has all the same images and will work will all themes that are compitable with the original.</p>
     <footer>
         <p>Fork of <a href="https://github.com/Keyitdev/sddm-astronaut-theme" target="_blank">sddm-astronaut-theme</a> by Keyitdev for privacy.</p>
     </footer>
